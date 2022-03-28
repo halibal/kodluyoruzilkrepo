@@ -7,14 +7,11 @@ README dosyasi, bir adet de index.html barindiriyor.
 
 ## Installation
 
----
 Oncelikle projeyi clonelayin. (Buraya sizin reponuzdan aldiginiz link gelecek)
 
 `git clone https://https://github.com/halibal/kodluyoruzilkrepo.git`
 
 ## Usage
-
----
 
 Projeyi cloneladiktan sonra Visual Studio Code programinda aciniz.
 
@@ -27,12 +24,9 @@ code .
 
 ## Contributing
 
----
-
 Pull requestler kabul edilir. Buyuk degisiklikler icin lutfen once neyi degistirmek
 istediginizi tartismak amaciyla bir konu aciniz.
 
 ## License
 
----
 [MIT](https://en.wikipedia.org/wiki/MIT_License)
