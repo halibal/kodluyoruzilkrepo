@@ -9,7 +9,9 @@ README dosyasi, bir adet de index.html barindiriyor.
 
 Oncelikle projeyi clonelayin. (Buraya sizin reponuzdan aldiginiz link gelecek)
 
-`git clone https://https://github.com/halibal/kodluyoruzilkrepo.git`
+```
+git clone https://https://github.com/halibal/kodluyoruzilkrepo.git
+```
 
 ## Usage
 
