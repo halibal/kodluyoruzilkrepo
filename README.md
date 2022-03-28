@@ -1,7 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-Bu repo [Kodluyoruz] Front-End Egitiminde olusturdugumuz ilk repo. Icerisinde bir adet
-README dosyasi, bir adet de index.html barindiriyor.
+Bu repo [Kodluyoruz] Front-End Egitiminde olusturdugumuz ilk repo. Icerisinde bir adet README dosyasi, bir adet de index.html barindiriyor.
 
 ![repo screenshot](https://raw.githubusercontent.com/halibal/kodluyoruzilkrepo/main/kodluyoruz_ilk_repository_screenshot.png)
 
@@ -26,8 +25,7 @@ code .
 
 ## Contributing
 
-Pull requestler kabul edilir. Buyuk degisiklikler icin lutfen once neyi degistirmek
-istediginizi tartismak amaciyla bir konu aciniz.
+Pull requestler kabul edilir. Buyuk degisiklikler icin lutfen once neyi degistirmek istediginizi tartismak amaciyla bir konu aciniz.
 
 ## License
 
